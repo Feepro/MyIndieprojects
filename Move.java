@@ -2,7 +2,7 @@ import javax.swing.*;
 
 /**
  * Created by FEEPRo on 01.05.2016.
- */
+ йцйуйцуйцуйцу*/
 public class Move {
     static int swap;
     public static void moveUp(JLabel t1[][], Integer numb[][], JPanel jp1, JFrame frame){
